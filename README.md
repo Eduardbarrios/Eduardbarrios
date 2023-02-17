@@ -1,7 +1,7 @@
 # 💫 About Me:
 I´m web developer, appasionate about technology and learning, i invite you to know part of my work and the technologies i use.<br>I hope you like my work.
 ##Portfolio:
-[![Portfolio]('./assets/portfolio.png' "Portfolio")](https://eduardbarrios.github.io/personal-portfolio/ "Portfolio")
+[![Portfolio]("https://github.com/Eduardbarrios/Eduardbarrios/blob/main/assets/portfolio.png")](https://eduardbarrios.github.io/personal-portfolio/ "Portfolio")
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eduard09/) 
